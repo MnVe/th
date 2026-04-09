@@ -1,1 +1,71 @@
-http://www.stats.gov.cn,http://tjj.ah.gov.cn,http://www.shouxian.gov.cn,https://www.ipcc-nggip.iges.or.jp/public/2006gl/,http://www.mee.gov.cn,https://www.cnki.net,https://scholar.google.com,https://www.fao.org/faostat/,http://data.cma.cn，https://www.ncdc.noaa.gov，https://data.worldbank.org，https://www.kaggle.com，。。。待补充
+# 统计建模论文 - 数据网址汇总
+
+## 一、官方统计数据网站
+
+### 1.1 国内统计部门（✅ 已核实）
+
+| 网站名称 | 网址 | 用途 |
+|----------|------|------|
+| 国家统计局 | https://www.stats.gov.cn | 全国宏观经济和农业数据 |
+| 安徽省统计局 | https://tjj.ah.gov.cn | 省级农业数据 |
+| 淮南市统计局 | https://tjj.huainan.gov.cn | 市级/县级数据 |
+| 寿县2024年统计公报 | https://tjj.huainan.gov.cn/tjsj/tjgb/551823777.html | 寿县农业基础数据 |
+
+### 1.2 国际组织
+
+| 网站名称 | 网址 | 用途 |
+|----------|------|------|
+| IPCC GHG Inventory | https://www.ipcc-nggip.iges.or.jp/public/2006gl/ | 排放因子（2006清单指南） |
+| FAOSTAT | https://www.fao.org/faostat/ | 国际农业数据 |
+| World Bank Data | https://data.worldbank.org | 国际发展数据 |
+
+---
+
+## 二、学术文献数据库
+
+### 2.1 中文数据库
+
+| 网站名称 | 网址 | 用途 |
+|----------|------|------|
+| 中国知网 | https://www.cnki.net | 中文文献检索 |
+| 万方数据 | https://www.wanfangdata.com.cn | 中文文献检索 |
+| 维普网 | https://www.cqvip.com | 中文文献检索 |
+
+### 2.2 外文数据库
+
+| 网站名称 | 网址 | 用途 |
+|----------|------|------|
+| Web of Science | https://www.webofscience.com | 外文文献检索 |
+| ScienceDirect | https://www.sciencedirect.com | 外文文献检索 |
+| Springer | https://link.springer.com | 外文文献检索 |
+
+---
+
+## 三、气象与环境数据
+
+| 网站名称 | 网址 | 用途 |
+|----------|------|------|
+| 中国气象数据网 | https://data.cma.cn | 气象观测数据 |
+| NOAA NCDC | https://www.ncdc.noaa.gov | 国际气象数据 |
+| 中国环境监测总站 | https://www.cnemc.cn | 环境监测数据 |
+
+---
+
+## 四、本文使用的核心数据来源
+
+### 4.1 寿县2024年统计公报
+- **网址**：https://tjj.huainan.gov.cn/tjsj/tjgb/551823777.html
+- **发布日期**：2025年6月19日
+- **核心数据**：粮食产量182.0万吨、稻谷255.7万亩、小麦172.0万亩、化肥12.8万吨
+
+### 4.2 IPCC 2006年清单指南
+- **网址**：https://www.ipcc-nggip.iges.or.jp/public/2006gl/
+- **核心内容**：稻田甲烷排放因子（长江中下游：268.5 kg CH4/ha）
+
+### 4.3 安徽省农业碳排放驱动因素研究
+- **文献**：邓宇婷等. 基于随机森林的安徽省农业碳排放驱动因素与脱钩效应[J]. 农业科学, 2025, 8(4)
+- **DOI**：10.12238/as.v8i4.2881
+
+---
+
+*最后更新：2026年4月9日*
